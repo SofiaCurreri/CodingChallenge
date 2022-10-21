@@ -1,0 +1,67 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+  }
+
+.riquadro{
+  font-family: "Century Gothic";
+  width: 850px;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 40px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+header, nav{
+  text-align: center;
+}
+
+#aim{
+  color: #00FF00;
+}
+
+.logo{
+  width: 200px;
+  display: inline-block;
+}
+
+.rettangolo{
+  background-color: rgb(0, 255, 0);
+  margin: 0px;
+  padding: 10px;
+}
+
+.selezionatore{
+  display: inline-block;
+}
+
+main{
+  color: white;
+}
+
+.info{
+  display: block;
+  font-size: 13px;
+}
+
+.carica1{
+  background-color: orange;
+  margin-right: 70%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.carica2{
+  background-color: rgb(50, 205, 50);
+  margin-right: 30%;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.carica3{
+  background-color: #DC143C;
+  margin-right: 85%;
+  padding: 10px;
+  border-radius: 5px;
+}
